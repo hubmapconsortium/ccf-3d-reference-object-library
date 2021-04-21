@@ -1,0 +1,10 @@
+$selObj = `ls -sl`;
+for($sel in $selObj)
+{
+    $structure = `getAttr ($sel + ".anatomical_structure_of")`;
+    $rdfs = `getAttr ($sel + ".rdfs_label")`;
+    $id = `getAttr ($sel + ".ontology_id")`;
+    $iri = `getAttr ($sel + ".ontology_iri")`;
+    
+    print($structure + "," + $sel + "," + $rdfs + "," + $id + "," + $iri + "\n");
+};

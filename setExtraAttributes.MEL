@@ -1,0 +1,39 @@
+global proc getAttributes(string $fileName)
+{
+ //open the file for reading
+ $fileId=`fopen $fileName "r"`;
+ 
+ //get the first line of text
+ string $nextLine = `fgetline $fileId`;
+ 
+ //while $nextline is not emtpy(end of file) do the following 
+ 
+ while ( size( $nextLine ) > 0 ) {
+ 	
+ //tokenize(split) line into separate elements of an array 
+ 	string $rawAttributeArray[];
+ tokenize ($nextLine, ",",$rawAttributeArray);
+ //place each element of the array into separate variables 
+ print $rawAttributeArray;
+ 
+string $structure=$rawAttributeArray[0];
+string $source=$rawAttributeArray[1];
+string $node=$rawAttributeArray[2];
+string $rdfs=$rawAttributeArray[3];
+string $id=$rawAttributeArray[4];
+string $iri=$rawAttributeArray[5];
+
+ //change the attributes
+
+ 
+setAttr -type "string" ($node + ".ontology_id") $id;
+setAttr -type "string" ($node + ".ontology_iri") $iri;
+setAttr -type "string" ($node + ".rdfs_label") $rdfs;
+setAttr -type "string" ($node + ".anatomical_structure_of") $structure;
+
+ //get the next line in the ascii file. 
+ $nextLine = `fgetline $fileId`;
+ }
+ //close file 
+ fclose $fileId;
+}
