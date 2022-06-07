@@ -1,0 +1,114 @@
+#VHFHeart,#VHFHeartHeartExtractionSites,ALL,#VHFemaleOrgans,VH_F_heart_extraction_sites,Heart extraction sites
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_extraction_sites,VH_F_heart_SPARC heart extraction sites
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_apical_septum,apical septum
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_AVN,AV (atrioventricular) node
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_basal_ant_LV,basal anterior left ventricle
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_basal_inf_LV,basal inferior left ventricle
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_basal_lateral_LV,basal lateral left ventricle
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_basal_septum,basal septum
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_base_of_LAA,base of left aortic arch
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_IVCIAGP,inferior vena cava–inferior atrial ganglionated plexi
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_LAA,left aortic arch
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_LV_apex,left ventricle apex
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_mid_ant_LV,mid anterior left ventricle
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_mid_inf_LV,mid inferior left ventricle
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_mid_lateral_LV,mid lateral left ventricle
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_mid_septum,mid septum
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_mitral_valve,mitral valve
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_papillary_muscle,papillary muscle
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_posterior_LA,posterior left atrium
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_RA_trabeular_myocardium,right atrium trabecular myocardium
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_RAA,right aortic arch
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_RAGP,right atrial ganglionated plexus
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_RV_free_wall,right ventricular free wall
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_RV_inflow,right ventricular inflow
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_RVOT,right ventricular outflow tract
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_sinus_venarum,sinus venarum
+#VHFHeart,#VHFHeartVH_F_heart_SPARCSet1,VH_F_heart_SPARC,#VHFemaleOrgans,VH_F_heart_SPARC_VIVGP,ventral interventricular ganglionated plexi
+#VHFHeart,#VHFHeartHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_heart_HuBMAP_extraction_sites,HuBMAP heart extraction sites
+#VHFHeart,#VHFHeartHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_heart_HuBMAP_RA_AV_node,"Right atrium, AV (atrioventricular) node"
+#VHFHeart,#VHFHeartHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_heart_HuBMAP_RA_SA_node,"Right atrium, SA (sinoatrial) node"
+#VHFHeart,#VHFHeartHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_heart_HuBMAP_LA_inflow,"Left atrium, PV inflow"
+#VHFHeart,#VHFHeartHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_heart_HuBMAP_LA_appendage,"Left atrium, appendage"
+#VHFHeart,#VHFHeartHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_heart_HuBMAP_RA_appendage,Right atrium appendage
+#VHFHeart,#VHFHeartHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_heart_HuBMAP_RV_free_wall_3cm_fr_apex,"Right ventricle, free wall 3cm from apex"
+#VHFHeart,#VHFHeartHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_heart_HuBMAP_septum_3cm_fr_apex_including_LAD,"Septum, 3cm from apex including LAD"
+#VHFHeart,#VHFHeartHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_heart_HuBMAP_LV_free_wall_3cm_fr_apex,"Left ventricle, free wall 3cm from apex"
+#VHFHeart,#VHFHeartHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_heart_HuBMAP_LV_apex,"Left ventricle, apex"
+#VHFHeart,#VHFHeartHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_heart_HuBMAP_posterior_AV_junction_inc_coronary_sinus,"Posterior, adjacent to coronary sinus"
+#VHFHeart,#VHFHeartPeiSet1,Pei,#VHFemaleOrgans,VH_F_heart_Pei_extraction_sites,Pei heart extraction sites
+#VHFHeart,#VHFHeartPeiSet1,Pei,#VHFemaleOrgans,VH_F_heart_Pei_aortic_root,aortic root
+#VHFHeart,#VHFHeartPeiSet1,Pei,#VHFemaleOrgans,VH_F_heart_Pei_left_atrium,left atrium
+#VHFHeart,#VHFHeartPeiSet1,Pei,#VHFemaleOrgans,VH_F_heart_Pei_LV_free_wall,left ventricle free wall
+#VHFHeart,#VHFHeartPeiSet1,Pei,#VHFemaleOrgans,VH_F_heart_Pei_RA_AV_node,right atrium AV node
+#VHFHeart,#VHFHeartPeiSet1,Pei,#VHFemaleOrgans,VH_F_heart_Pei_RA_SA_node,left atrium SA node
+#VHFHeart,#VHFHeartPeiSet1,Pei,#VHFemaleOrgans,VH_F_heart_Pei_right_atrium,right atrium
+#VHFHeart,#VHFHeartPeiSet1,Pei,#VHFemaleOrgans,VH_F_heart_Pei_RV_free_wall,right ventricle free wall
+#VHFHeart,#VHFHeartPeiSet1,Pei,#VHFemaleOrgans,VH_F_heart_Pei_septum,septum
+#VHFHeart,#VHFHeartHCASet1,HCA,#VHFemaleOrgans,VH_F_heart_HCA_extraction_sites,HCA heart extraction sites
+#VHFHeart,#VHFHeartHCASet1,HCA,#VHFemaleOrgans,VH_F_heart_HCA_apex,apex
+#VHFHeart,#VHFHeartHCASet1,HCA,#VHFemaleOrgans,VH_F_heart_HCA_left_atrium,left atrium
+#VHFHeart,#VHFHeartHCASet1,HCA,#VHFemaleOrgans,VH_F_heart_HCA_left_ventricle_free_wall,left ventricle free wall
+#VHFHeart,#VHFHeartHCASet1,HCA,#VHFemaleOrgans,VH_F_heart_HCA_septum,septum
+#VHFHeart,#VHFHeartHCASet1,HCA,#VHFemaleOrgans,VH_F_heart_HCA_right_atrium,right atrium
+#VHFHeart,#VHFHeartHCASet1,HCA,#VHFemaleOrgans,VH_F_heart_HCA_right_ventricle,right ventricle
+-,-,-,#VHFemaleOrgans,VH_F_kidney_extraction_sites,Kidney exraction sites
+-,-,-,#VHFemaleOrgans,VH_F_kidney_HuBMAP_extraction_sites,HuBMAP kideny extraction sites
+#VHFLeftKidney,#VHFLeftKidneyHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_kidney_bisection_line_L,Bisection Line
+#VHFRightKidney,#VHFRightKidneyHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_kidney_bisection_line_R,Bisection Line
+-,-,-,#VHFemaleOrgans,VH_F_colon_extraction_sites,large intestine extraction sites
+-,-,-,#VHFemaleOrgans,VH_F_colon_HuBMAP_extraction_sites,HuBMAP colon extraction sites
+#VHFColon,#VHFColonSet1,HuBMAP,#VHFemaleOrgans,VH_F_colon_HuBMAP_ascending_colon,Ascending colon
+#VHFColon,#VHFColonSet1,HuBMAP,#VHFemaleOrgans,VH_F_colon_HuBMAP_transverse_colon,Transverse colon
+#VHFColon,#VHFColonSet1,HuBMAP,#VHFemaleOrgans,VH_F_colon_HuBMAP_descending_colon,Descending colon
+#VHFColon,#VHFColonSet1,HuBMAP,#VHFemaleOrgans,VH_F_colon_HuBMAP_sigmoid_colon,Sigmoid colon
+-,-,-,#VHFemaleOrgans,VH_F_spleen_extraction_sites,spleen extraction sites
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_extraction_sites,HuBMAP Spleen Extraction Sites
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC,-
+#VHFSpleen,#VHFSpleenHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1,CC1
+#VHFSpleen,#VHFSpleenHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2,CC2
+#VHFSpleen,#VHFSpleenHBMSet1,HuBMAP,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3,CC3
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_1_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_2_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_3_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_4_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_5_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_6_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_1_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_2_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_3_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_4_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_5_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_6_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_1_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_2_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_3_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_4_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_5_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_6_2x3,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_1_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_2_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_3_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_4_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_5_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC1_6_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_6_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_1_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_2_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_3_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_4_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC2_5_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_1_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_2_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_3_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_4_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_5_1x6,-
+-,-,-,#VHFemaleOrgans,VH_F_spleen_HuBMAP_CC3_6_1x6,-

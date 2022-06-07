@@ -1,0 +1,46 @@
+global proc getAttributes(string $fileName)
+{
+ //open the file for reading
+ $fileId=`fopen $fileName "r"`;
+ 
+ //get the first line of text
+ string $nextLine = `fgetline $fileId`;
+ 
+ //while $nextline is not emtpy(end of file) do the following 
+ 
+ while ( size( $nextLine ) > 0 ) {
+ 	
+ //tokenize(split) line into separate elements of an array 
+ 	string $rawAttributeArray[];
+ tokenize ($nextLine, ",",$rawAttributeArray);
+ //place each element of the array into separate variables 
+ print $rawAttributeArray;
+ 
+string $anatomical_structure_of=$rawAttributeArray[0];
+string $source_spatial_entity=$rawAttributeArray[1];
+string $node_name=$rawAttributeArray[2];
+string $label=$rawAttributeArray[3];
+string $ontology_id=$rawAttributeArray[4];
+string $representation_of=$rawAttributeArray[5];
+string $glb_file=$rawAttributeArray[6];
+
+ //change the attributes
+
+setAttr -type "string" ($node_name + ".anatomical_structure_of") $anatomical_structure_of;
+setAttr -type "string" ($node_name + ".source_spatial_entity") $source_spatial_entity;
+setAttr -type "string" ($node_name + ".label") $label;
+setAttr -type "string" ($node_name + ".ontologyid") $ontology_id;
+setAttr -type "string" ($node_name + ".representation_of") $representation_of;
+setAttr -type "string" ($node_name + ".glb_file_of_single_organs") $glb_file;
+
+
+ //get the next line in the ascii file. 
+ $nextLine = `fgetline $fileId`;
+ }
+ //close file 
+ fclose $fileId;
+}
+
+//To run the script eg: getAttributes("D:/HuBMAP/NodeLists/11182021/VH_M/import.csv");
+//If there are errors, make sure you haven't changed the node name since last used.  If it's been changed, just update the import.csv file
+//Make sure that any empty cells have been filled with a dash

@@ -1,0 +1,13 @@
+$selObj = `ls -sl`;
+for($sel in $selObj)
+{
+    $structure = `getAttr ($sel + ".anatomical_structure_of")`;
+	$source = `getAttr ($sel + ".source_spatial_entity")`;
+	$label = `getAttr ($sel + ".label")`;
+	$ontology_id = `getAttr ($sel + ".ontologyid")`;
+	$representation_of = `getAttr ($sel + ".representation_of")`;
+	$glb = `getAttr ($sel + ".glb_file_of_single_organs")`;
+	
+    
+    print($structure + ","+ $source + "," + $sel + "," + $label + "," + $ontology_id + "," + $representation_of + "," + $glb +  "\n");
+};

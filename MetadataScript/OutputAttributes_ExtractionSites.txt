@@ -1,0 +1,12 @@
+$selObj = `ls -sl`;
+for($sel in $selObj)
+{
+    $structure = `getAttr ($sel + ".extraction_set_for")`;
+	$source = `getAttr ($sel + ".extraction_set_id")`;
+	$label = `getAttr ($sel + ".extraction_set_label")`;
+	$ontology_id = `getAttr ($sel + ".source_spatial_entity")`;
+	$representation_of = `getAttr ($sel + ".label")`;
+	
+    
+    print($structure + ","+ $source + "," + $sel + "," + $label + "," + $ontology_id + "," + $representation_of + "," + "\n");
+};

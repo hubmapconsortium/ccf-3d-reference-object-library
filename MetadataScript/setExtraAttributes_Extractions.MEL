@@ -1,0 +1,39 @@
+global proc getAttributesExtractions(string $fileName)
+{
+ //open the file for reading
+ $fileId=`fopen $fileName "r"`;
+ 
+ //get the first line of text
+ string $nextLine = `fgetline $fileId`;
+ 
+ //while $nextline is not emtpy(end of file) do the following 
+ 
+ while ( size( $nextLine ) > 0 ) {
+ 	
+ //tokenize(split) line into separate elements of an array 
+ 	string $rawAttributeArray[];
+ tokenize ($nextLine, ",",$rawAttributeArray);
+ //place each element of the array into separate variables 
+ print $rawAttributeArray;
+ 
+string $extraction_set_for=$rawAttributeArray[0];
+string $extraction_set_id=$rawAttributeArray[1];
+string $extraction_set_label=$rawAttributeArray[2];
+string $source_spatial_entity=$rawAttributeArray[3];
+string $node_name=$rawAttributeArray[4];
+string $label=$rawAttributeArray[5];
+
+ //change the attributes
+
+setAttr -type "string" ($node_name + ".extraction_set_for") $extraction_set_for;
+setAttr -type "string" ($node_name + ".extraction_set_id") $extraction_set_id;
+setAttr -type "string" ($node_name + ".extraction_set_label") $extraction_set_label;
+setAttr -type "string" ($node_name + ".source_spatial_entity") $source_spatial_entity;
+setAttr -type "string" ($node_name + ".label") $label;
+
+ //get the next line in the ascii file. 
+ $nextLine = `fgetline $fileId`;
+ }
+ //close file 
+ fclose $fileId;
+}

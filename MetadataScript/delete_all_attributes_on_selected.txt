@@ -1,0 +1,5 @@
+import pymel.core as pm
+for n in pm.selected():
+    for a in n.listAttr(ud=True):
+        a.unlock()
+        pm.deleteAttr(a)
